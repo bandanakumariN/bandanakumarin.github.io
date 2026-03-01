@@ -10,7 +10,7 @@ function Main() {
     <div className="container">
       <div className="about-section">
         <div className="image-wrapper">
-          <img src="https://github.com/bandanakumariN/bandanakumarin.github.io/blob/master/src/assets/images/bandana.png" alt="Avatar" />
+          <img src={myPhoto} alt="Avatar" />
         </div>
         <div className="content">
           <div className="social_icons">
