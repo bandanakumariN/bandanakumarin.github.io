@@ -1,6 +1,7 @@
 import React from "react";
 import GitHubIcon from '@mui/icons-material/GitHub';
 import LinkedInIcon from '@mui/icons-material/LinkedIn';
+import myPhoto from 'https://github.com/bandanakumariN/bandanakumarin.github.io/blob/master/src/assets/images/bandana.png';
 import '../assets/styles/Main.scss';
 
 function Main() {
